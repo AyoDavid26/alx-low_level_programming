@@ -1,4 +1,4 @@
-#include <studio.h>
+# include <studio.h>
 /**
  * main- Serves as the entry point for the program
  *
