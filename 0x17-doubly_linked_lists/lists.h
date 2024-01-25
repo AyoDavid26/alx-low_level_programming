@@ -10,7 +10,8 @@
  * @prev: This points to the previous node
  * @next: This points to the next node
  *
- * Desc: doubly linked list node structure project
+ * Desc: doubly linked list node structure
+ * for Holberton project
  */
 typedef struct dlistint_s
 {
