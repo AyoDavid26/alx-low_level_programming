@@ -1,4 +1,4 @@
-#include "serach_algos.h"
+#include "search_algos.h"
 
 /**
  * Linear_Search - To search for a value in an array using
